@@ -1,3 +1,4 @@
+// Solara Bay v17 — seeded RNG
 // Seeded RNG (mulberry32) — deterministic world generation: same seed, same city.
 export function mulberry32(seed) {
   let a = seed >>> 0;

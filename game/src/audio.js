@@ -1,3 +1,4 @@
+// Solara Bay v17 — audio engine (synth SFX, radio, sirens)
 // Synthesised audio — no audio files. Engine hum, two-tone siren, gunshots,
 // UI beeps and a tiny radio sequencer, all built with the Web Audio API.
 export class SynthAudio {
